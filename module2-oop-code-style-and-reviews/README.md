@@ -72,3 +72,10 @@ read the
 
 And if you get through all the above - make `lambdata` better! Implement 2 more
 helper functions, and/or refactor your code to be more object-oriented.
+
+## Assignment Submission
+Code changes:
+https://github.com/ShreyasJothish/lambdata
+
+Package:
+https://test.pypi.org/project/lambdata-shreyasjothish/
